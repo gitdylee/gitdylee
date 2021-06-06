@@ -5,7 +5,6 @@
  
  I'm Lee DaeYeon. 
  
- 💬 Ask me about anything, I am happy to help.  
  📫 How to reach me: imdaeyeonlee.gmail.com
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdylee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +20,7 @@ https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readm
 
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#github-%ED%86%B5%EA%B3%84
 
-
+💬 Ask me about anything, I am happy to help.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
