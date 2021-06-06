@@ -3,7 +3,7 @@
  
  Welcome to my Github.!  
  
- I'm Lee DaeYeon.   
+ I'm Lee DaeYeon. 
  
  💬 Ask me about anything, I am happy to help.  
  📫 How to reach me: imdaeyeonlee.gmail.com
@@ -13,6 +13,13 @@
  
 <!--
 **gitdylee/gitdylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+refrence)
+https://github.com/Gapur
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#github-%ED%86%B5%EA%B3%84
 
 
 Here are some ideas to get you started:
@@ -26,9 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-refrence)
-https://github.com/Gapur
-https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
-
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#github-%ED%86%B5%EA%B3%84
