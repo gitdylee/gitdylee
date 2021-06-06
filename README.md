@@ -3,7 +3,7 @@
  
  I'm Lee DaeYeon. Nice to meet you here!
  
- 💬 Ask me about anything, I am happy to help.
+ 💬 Ask me about anything, I am happy to help. <\b>
  📫 How to reach me: imdaeyeonlee.gmail.com
  
 <!--
