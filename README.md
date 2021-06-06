@@ -1,6 +1,10 @@
  
- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Lee DaeYeon
+ # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
  
+ I'm Lee DaeYeon. Nice to meet you here!
+ 
+ 💬 Ask me about anything, I am happy to help.
+ 📫 How to reach me: imdaeyeonlee.gmail.com
  
 <!--
 **gitdylee/gitdylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
