@@ -1,7 +1,7 @@
  
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
  
- Welcome to my Github.!  
+ Welcome to my Github page!  
  
  I'm Lee DaeYeon. 
  
