@@ -1,5 +1,5 @@
  
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
+# Hello, folks! 
  
  Welcome to my Github page!  
  
